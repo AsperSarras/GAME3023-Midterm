@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 291694f58a4e99349b932e6e4b7bf0c6, type: 3}
+  m_Name: Claw'D Fish
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: adaa4cfc22f950f43a34cd9ec6175518, type: 3}
+  description: 'Pro tip: You can actually make a claw with the ingridients'
+  isConsumable: 0
+  Carbs: {fileID: 11400000, guid: a45b477a160f748499b429e1ba6c6b51, type: 2}
+  Meat: {fileID: 11400000, guid: cdb30b8d68876b34f84bd04e1406d945, type: 2}
+  Salad: {fileID: 11400000, guid: 69a11b06ee2058b4b80e431d9a42f9c5, type: 2}
+  Skill: {fileID: 11400000, guid: a9efa24a30243e541ad300d0375d5bfd, type: 2}
+  hpStat: 10
+  manaStat: 0
+  strStat: 0
+  dexStat: 8
+  intStat: 0
+  defStat: 10
+  staStat: 8
